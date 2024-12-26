@@ -4,7 +4,7 @@
 
 This project aims to implement a simplified version of Lisp, called Mini-Lisp, which is an interpreter.
 
-- [More about Final Project](Compiler%20Final%20Project\Compiler%20Final%20Project.pdf)
+- [More about Final Project](Compiler%20Final%20Project/Compiler%20Final%20Project.pdf)
 - [More about Mini-Lisp](Compiler%20Final%20Project/MiniLisp.pdf)
 
 ## Environment
